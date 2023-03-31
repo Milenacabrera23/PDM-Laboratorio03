@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_cantidad">30sp</dimen>
+    <dimen name="layout_width_cents">139dp</dimen>
+    <dimen name="layout_height_cents">153dp</dimen>
+    <dimen name="cents_layout_marginTop" >90dp</dimen>
+</resources>
